@@ -1,0 +1,17 @@
+{
+  "name": "option-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fuelchain": "^0.16.0",
+    "fuels": "^0.16.0",
+    "typechain-target-fuels": "^0.16.0"
+  }
+}
